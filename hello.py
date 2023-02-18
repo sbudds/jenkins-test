@@ -1,2 +1,2 @@
 print("will it work")
-print("yes it has worked")
+print("yes it worked")
